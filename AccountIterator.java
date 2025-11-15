@@ -35,10 +35,6 @@ public class AccountIterator implements Iterator {
 		else
 			return true;
 	}
-	
-
-
-
-	
 
 }
+
